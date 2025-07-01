@@ -1,7 +1,5 @@
 <h1 align="center">Hello, I'm Lucien Poissonnier</h1>
-<h3 align="center">A numeric systems engineer from Polytech Annecy, and a learning front-end developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucienppoly" alt="lucienppoly" /></a> </p>
+<h3 align="center">A numeric systems engineer from <a href="https://www.univ-smb.fr/polytech/en/formation/systemes-numeriques-instrumentation/">Polytech Annecy</a>, and a learning front-end developer</h3>
 
 - 🌱 I’m currently learning **React and TypeScript**
 
