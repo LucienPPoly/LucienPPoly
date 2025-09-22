@@ -1,5 +1,5 @@
 # 💫 About Me: <br>
-- 🎓 I (almost) graduated from [Polytech Annecy-Chambéry](https://www.univ-smb.fr/polytech/en/formation/systemes-numeriques-instrumentation/) and my goal is to be a front-end developer<br><br>
+- 🎓 I graduated from [Polytech Annecy-Chambéry](https://www.univ-smb.fr/polytech/en/formation/systemes-numeriques-instrumentation/) and my goal is to be a front-end developer<br><br>
 - 🌱 I’m currently learning **React and TypeScript**<br><br>
 - 🎵 If I wasn't planning on working as a developer, I would be making [music](https://soundcloud.com/jotarosalina)
 
